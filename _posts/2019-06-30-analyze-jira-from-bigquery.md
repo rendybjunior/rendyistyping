@@ -83,7 +83,7 @@ After this simple initial query, I clicked "EXPLORE WITH DATA STUDIO" on red cir
 
 <figure>
 	<img src="/assets/images/jira_datastudio.png">
-  <figcaption>Jira Issues on BigQuery</figcaption>
+  <figcaption>Jira Issues on Data Studio</figcaption>
 </figure>
 
 I am so happy now I can easily create my own insight and create my own queries to dig deeper on my Jira issues. :)
