@@ -63,7 +63,7 @@ with DAG(dag_id, schedule_interval=schedule_interval,
   gcs_to_bq = GoogleCloudStorageToBigQueryOperator(
     task_id='gcs_to_bq',
     bucket=gcs_bucket,
-    source_objects=[ 'idsd_created/created={{ ds }}/*.json' ],
+    source_objects=[ 'jira_created/created={{ ds }}/*.json' ],
     destination_project_dataset_table=destination_table_with_partition,
     source_format=source_format,
     create_disposition='CREATE_IF_NEEDED',
