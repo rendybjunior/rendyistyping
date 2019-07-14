@@ -3,10 +3,7 @@ layout: single
 permalink: /about/
 title: Rendy B. Junior
 ---
-Crazy dad. Data tech enthusiast.
-
-## Data Tech Enthusiast
-Interested in solving business use cases using data technology. Enjoy designing and developing scalable data systems.
+Crazy dad. Data tech enthusiast. Interested in solving business use cases using data technology. Enjoy designing and developing scalable data systems.
 
 ### Connect
 * [Latest Resume (July 2019)](https://github.com/rendybjunior/rendyistyping/raw/gh-pages/assets/files/Resume.pdf)
@@ -55,7 +52,7 @@ Interested in solving business use cases using data technology. Enjoy designing 
 * [2019] [KPUrawler - Election Commission Crawler](https://github.com/rendybjunior/kpurawler)
 * [2018] [AWS Lambda Salat Reminder](https://github.com/rendybjunior/gosalat)
 
-## A Crazy Dad
+## A Crazy Dad...
 Enjoy playing with kids and play fool! A devoted dad to a cute daughter. Aspiring to contribute to environmental informatics, making the world a better place for the next generations.
 
 <figure class="third">
