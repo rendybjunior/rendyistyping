@@ -63,6 +63,7 @@ FROM
   fact_sales JOIN dim_book ON fact_sales.book_id = dim_book.book_id
 WHERE
   sales_date > DATE_SUB(CURRENT_DATE(), INTERVAL 3 MONTH)
+GROUP BY 1, 2
 ```
 
 ### So... How close?
