@@ -1,8 +1,10 @@
 ---
 layout: single
 permalink: /about/
-title: About
+title: Rendy B. Junior
 ---
+Crazy dad. Data tech enthusiast.
+
 ## Data Tech Enthusiast
 Interested in solving business use cases using data technology. Enjoy designing and developing scalable data systems.
 
