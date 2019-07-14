@@ -20,6 +20,7 @@ Crazy dad. Data tech enthusiast. Interested in solving business use cases using 
 * [2016] AWS Certified SysOps Administrator Associate
 
 ### Talks
+* [2019] [Data Modeling and Processing for a Travel Super App - Data Council '18 Singapore](https://www.datacouncil.ai/talks/data-modeling-and-processing-for-a-travel-super-app?hsLang=en)
 * [2018] [Data Provisioning API with BigQuery - Google Cloud Summit ’18 Jakarta](https://www.slideshare.net/imrenagi/data-provision-api-with-bigquery-google-cloud-summit-jakarta-18)
 * [2018] [Scalable Data Systems - RuangGuru Engineering Scalability Talk](https://www.slideshare.net/rendybjunior/scalable-data-systems-at-traveloka)
 * [2017] [Traveloka’s journey to stream analytics on GCP - Google Cloud Summit ‘17 Singapore](https://www.slideshare.net/rendybjunior/travelokas-journey-to-no-ops-streaming-analytics)
@@ -29,21 +30,26 @@ Crazy dad. Data tech enthusiast. Interested in solving business use cases using 
 * [2017] [Scalable Data Pipeline at Traveloka - Facebook DevC Bandung](https://www.slideshare.net/rendybjunior/scalable-data-pipeline-at-traveloka-facebook-dev-bandung)
 * [2015] [Data Engineering Challenges - DSE Day at Bandung Institute of Technology](https://www.slideshare.net/rendybjunior/data-engineering-challenges-dse-day-at-bandung-institute-of-technology)
 
-### Articles
-#### English
-* [2019] [Thought on Two Concepts: Event Sourcing and Dimensional Modeling](https://rendyistyping.com/data-engineering/event-sourcing-dimensional-modeling/)
-* [2019] [How I Ended up Dumbing Down my Smartphone](https://medium.com/@rendybjunior/how-i-ended-up-dumb-down-my-smartphone-cf83149c2658)
-* [2018] [Data Lake API on Microservice Architecture using BigQuery](https://medium.com/traveloka-engineering/data-lake-api-on-microservice-architecture-using-bigquery-10d6e9c5ca8f), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-traveloka-built-a-data-provisioning-api-on-a-bigquery-based-microservice-architecture)
-* [2018] [Traveloka’s journey to stream analytics on Google Cloud Platform](https://medium.com/traveloka-engineering/travelokas-journey-to-stream-analytics-on-google-cloud-platform-3d013d6bf7c9), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/gcp/travelokas-journey-to-stream-analytics-on-google-cloud-platform)
-* [2018] [Data Story — How to Get Detailed Data Requirement Right](https://medium.com/@rendybjunior/data-story-how-to-get-detailed-data-requirement-right-16ce44490bd7)
-* [2018] [Getting Data to Data Lake from Microservices — Part 2: The Logs or Clickstream](https://itnext.io/getting-data-to-data-lake-from-microservices-part-2-the-logs-or-clickstream-e91fa7461867)
-* [2018] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829)
-* [2018] [Trying Out AWS Fargate for Daily Job on Docker](https://medium.com/@rendybjunior/trying-out-aws-fargate-for-daily-job-on-docker-b662ff9f73c8)
+### Selected Articles
+#### Data Engineering, System, and Architecture
+* [2019/en] [Thought on Two Concepts: Event Sourcing and Dimensional Modeling](https://rendyistyping.com/data-engineering/event-sourcing-dimensional-modeling/)
+* [2018/en] [Data Lake API on Microservice Architecture using BigQuery](https://medium.com/traveloka-engineering/data-lake-api-on-microservice-architecture-using-bigquery-10d6e9c5ca8f), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-traveloka-built-a-data-provisioning-api-on-a-bigquery-based-microservice-architecture)
+* [2018/en] [Traveloka’s journey to stream analytics on Google Cloud Platform](https://medium.com/traveloka-engineering/travelokas-journey-to-stream-analytics-on-google-cloud-platform-3d013d6bf7c9), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/gcp/travelokas-journey-to-stream-analytics-on-google-cloud-platform)
+* [2018/en] [Getting Data to Data Lake from Microservices — Part 2: The Logs or Clickstream](https://itnext.io/getting-data-to-data-lake-from-microservices-part-2-the-logs-or-clickstream-e91fa7461867)
+* [2018/en] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829)
 
-#### Indonesian
-* [2019] [Sulitnya Mencari Informasi Caleg di Pemilu 2019](https://medium.com/@rendybjunior/sulitnya-mencari-informasi-caleag-di-pemilu-2019-ba6f723ef579)
-* [2019] [Enam Bulan Mencoba Adopsi Architecture Decision Record](https://medium.com/@rendybjunior/enam-bulan-mencoba-adopsi-architecture-decision-record-3761e2e32829)
-* [2018] [Penjadwalan Dinamis dengan AWS Lambda dan CloudWatch Rule dalam Bahasa Go](https://medium.com/@rendybjunior/penjadwalan-dinamis-dengan-aws-lambda-dan-cloudwatch-rule-dalam-bahasa-go-a47084b7f17b)
+#### Leadership
+* [2019/id] [Re-learn OKR](https://rendyistyping.com/relearn-okr/)
+* [2019/id] [Enam Bulan Mencoba Adopsi Architecture Decision Record](https://medium.com/@rendybjunior/enam-bulan-mencoba-adopsi-architecture-decision-record-3761e2e32829)
+* [2018/en] [Data Story — How to Get Detailed Data Requirement Right](https://medium.com/@rendybjunior/data-story-how-to-get-detailed-data-requirement-right-16ce44490bd7)
+
+#### Devops and Infra
+* [2018/en] [Trying Out AWS Fargate for Daily Job on Docker](https://medium.com/@rendybjunior/trying-out-aws-fargate-for-daily-job-on-docker-b662ff9f73c8)
+* [2018/id] [Penjadwalan Dinamis dengan AWS Lambda dan CloudWatch Rule dalam Bahasa Go](https://medium.com/@rendybjunior/penjadwalan-dinamis-dengan-aws-lambda-dan-cloudwatch-rule-dalam-bahasa-go-a47084b7f17b)
+
+#### Personal
+* [2019/en] [How I Ended up Dumbing Down my Smartphone](https://medium.com/@rendybjunior/how-i-ended-up-dumb-down-my-smartphone-cf83149c2658)
+* [2019/id] [Sulitnya Mencari Informasi Caleg di Pemilu 2019](https://medium.com/@rendybjunior/sulitnya-mencari-informasi-caleag-di-pemilu-2019-ba6f723ef579)
 
 ### Playground
 * [2019] [Freddie Mercury - Simple BigQuery Scheduler with Airflow as Engine](https://github.com/rendybjunior/freddie-mercury)
