@@ -1,8 +1,8 @@
 ---
 title: "Connecting the Dots, Data in Event Sourcing and Dimensional Modeling, How Close are They?"
-# header:
-#   teaser: /assets/images/dag_tree_view.png
-#   og_image: /assets/images/s3_to_bq_dag.png
+header:
+  teaser: /assets/images/20190714_events.png
+  og_image: /assets/images/20190714_events.png
 date: 2019-07-14
 category: data-engineering
 tags: [thought, event-sourcing, data-modeling, dimensonal-modeling, star-schema, architecture]
@@ -10,43 +10,30 @@ tags: [thought, event-sourcing, data-modeling, dimensonal-modeling, star-schema,
 
 Working on both event sourcing and dimensional modeling, looking at the concept and understanding some use cases, I feel they are somehow similar. They both care about state changes, not the state itself. This makes me wonder, how close are they actually, can they work together in a, let say, hypothetical use case?
 
-Let's start the thought process with a simple case: an online book store. The online book store allows you to order a book, proceed to checkout, fill payment details, and then the book will be delivered to you. To simplify the case, I won't use cart concept, only one book per order. Let say I have a service to handle the states of the book order, starting from 1) ordered, 2) paid, and 3) delivered.
+Let's start the thought process with a simple case: an online book store. The online book store allows you to order a book, proceed to checkout, fill payment details, and then the book will be delivered to you. To simplify the case, I won't use cart concept, only one book per order. Let say I have a service to handle the states of the book order, starting from ordered, paid, and delivered.
+
+<figure>
+  <img src="/assets/images/20190714_statediagram.png">
+  <figcaption>Order Table</figcaption>
+</figure>
 
 ### Event Sourcing Design of the Online Book Store
 It would be overkill to design event sourcing for this case of course, but let say we design the events, how the design will look like? Quoting Martin Fowler, Event Sourcing [1]:
 > ensures that all changes to application state are stored as a sequence of events
 
-Using event sourcing concept, instead of only storing the latest state of book order, I will store the state changes. This means, for the case above, I'll store several events: Order Event, Pay Success Event, and Deliver Event. Let's not go to infrastructure detail, let say I store it somewhere and apply state changes by subscribing to the events accordingly.
+Using event sourcing concept, instead of only storing the latest state of book order, I will store the state changes. This means, for the case above, I'll store several events: `Order Event`, `Pay Success Event`, and `Deliver Event`. Let's not go to infrastructure detail, let say I store it somewhere and apply state changes by subscribing to the events accordingly.
 
 Here's the state I'll store for customer to see their current order status.
-* Order Table
-  * order_id
-  * customer_id
-  * order_status --> possible values: ORDERED, PAID, DELIVERED
-  * order_timestamp
+<figure>
+  <img src="/assets/images/20190714_ordertable.png">
+  <figcaption>Order Table</figcaption>
+</figure>
 
 And here's the events I will store in order to be able to replay the state, if I need to.
-* Order Event
-  * event_id
-  * timestamp
-  * customer_id
-  * book_id --> remember, assume only one book per order, so it's fine to be here
-  * book_category
-  * book_price
-  * quantity
-* Pay Success Event
-  * event_id
-  * timestamp
-  * customer_id
-  * order_id
-  * payment_method
-  * amount
-* Deliver Event
-  * event_id
-  * timestamp
-  * customer_id
-  * order_id
-  * courier
+<figure>
+  <img src="/assets/images/20190714_events.png">
+  <figcaption>Events</figcaption>
+</figure>
 
 ### Dimensional Model Design of the Online Book Store
 Now, what about dimensional model of the use case? Before we go into the design, here are dimensional modeling steps suggested by Kimball [2]:
@@ -91,8 +78,8 @@ WHERE
 ### So... How close?
 Assuming I'm building a dimensional model data from event sourcing data, from the example above, there are several things that I can conclude:
 * They both care about events, hence storing all events will make dimensional modeling a lot easier, as opposed to using change data capture or guessing state changes from the latest state in database.
-* I might need to join data from several events in order to get dimensional model I want. In the example above, Pay Success Event is the definiton of sales, but it does not care about book detail. So I have to join Pay Success Event and Order Event in order to get Fact Sales table
-* Not covered in the example above, but building a dimension table will need some events as well, such as Add Book Inventory Event.
+* I might need to join data from several events in order to get dimensional model I want. In the example above, Pay Success Event is the definiton of sales, but it does not care about book detail. So I have to join `Pay Success Event` and `Order Event` in order to get Fact Sales table
+* Not covered in the example above, but building a dimension table will need some events as well, such as `Add Book Event`.
 
 Yet, this is hypothetical case only, the devils are in the details. Let me know if you see the conclusion otherwise, or you see my understanding of the concept is not accurate.
 
