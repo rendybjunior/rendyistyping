@@ -1,14 +1,16 @@
 ---
 layout: single
 permalink: /about/
-title: About
+title: Rendy B. Junior
 ---
+
+### Crazy Dad, Data Tech Enthusiast
 
 Interested in solving real use case using data technology. Enjoy designing and developing scalable data systems.
 
-Dad of a cute little daughter, amazed that playing with kids bring so much joy...
+A devoted dad to a cute daughter. Aspiring to contribute to environmental informatics, making the world a better place for the next generations.
 
-<figure class="half">
+<figure class="third">
 	<img src="/assets/images/dad.jpeg">
 </figure>
 
