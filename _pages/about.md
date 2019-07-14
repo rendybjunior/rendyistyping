@@ -39,7 +39,7 @@ Crazy dad. Data tech enthusiast. Interested in solving business use cases using 
 * [2018/en] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829)
 
 #### Leadership
-* [2019/id] [Re-learn OKR](https://rendyistyping.com/relearn-okr/)
+* [2019/en] [Re-learn OKR](https://rendyistyping.com/relearn-okr/)
 * [2019/id] [Enam Bulan Mencoba Adopsi Architecture Decision Record](https://medium.com/@rendybjunior/enam-bulan-mencoba-adopsi-architecture-decision-record-3761e2e32829)
 * [2018/en] [Data Story — How to Get Detailed Data Requirement Right](https://medium.com/@rendybjunior/data-story-how-to-get-detailed-data-requirement-right-16ce44490bd7)
 
