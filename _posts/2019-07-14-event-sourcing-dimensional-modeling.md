@@ -12,11 +12,6 @@ Working on both event sourcing and dimensional modeling, looking at the concept 
 
 Let's start the thought process with a simple case: an online book store. The online book store allows you to order a book, proceed to checkout, fill payment details, and then the book will be delivered to you. To simplify the case, I won't use cart concept, only one book per order. Let say I have a service to handle the states of the book order, starting from ordered, paid, and delivered.
 
-<figure class="third">
-  <img src="/assets/images/20190714_statediagram.png">
-  <figcaption>Order Table</figcaption>
-</figure>
-
 ### Event Sourcing Design of the Online Book Store
 It would be overkill to design event sourcing for this case of course, but let say we design the events, how the design will look like? Quoting Martin Fowler, Event Sourcing [1]:
 > ensures that all changes to application state are stored as a sequence of events
