@@ -12,7 +12,7 @@ Working on both event sourcing and dimensional modeling, looking at the concept 
 
 Let's start the thought process with a simple case: an online book store. The online book store allows you to order a book, proceed to checkout, fill payment details, and then the book will be delivered to you. To simplify the case, I won't use cart concept, only one book per order. Let say I have a service to handle the states of the book order, starting from ordered, paid, and delivered.
 
-<figure>
+<figure class="third">
   <img src="/assets/images/20190714_statediagram.png">
   <figcaption>Order Table</figcaption>
 </figure>
@@ -24,13 +24,13 @@ It would be overkill to design event sourcing for this case of course, but let s
 Using event sourcing concept, instead of only storing the latest state of book order, I will store the state changes. This means, for the case above, I'll store several events: `Order Event`, `Pay Success Event`, and `Deliver Event`. Let's not go to infrastructure detail, let say I store it somewhere and apply state changes by subscribing to the events accordingly.
 
 Here's the state I'll store for customer to see their current order status.
-<figure>
+<figure class="third">
   <img src="/assets/images/20190714_ordertable.png">
   <figcaption>Order Table</figcaption>
 </figure>
 
 And here's the events I will store in order to be able to replay the state, if I need to.
-<figure>
+<figure class="half">
   <img src="/assets/images/20190714_events.png">
   <figcaption>Events</figcaption>
 </figure>
