@@ -48,7 +48,7 @@ Let say, the definition of sales is when the payment is succeed. Then, the sales
 4. Identify facts and measures: Book quantity
 
 See simplified dimensional design below (assume dim book is using SCD type 1, overwrite only latest state):
-<figure class="half">
+<figure class="third">
   <img src="/assets/images/20190714_factdim.png">
   <figcaption>Fact and Dimension</figcaption>
 </figure>
