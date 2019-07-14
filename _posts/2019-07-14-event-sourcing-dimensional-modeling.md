@@ -24,7 +24,7 @@ It would be overkill to design event sourcing for this case of course, but let s
 Using event sourcing concept, instead of only storing the latest state of book order, I will store the state changes. This means, for the case above, I'll store several events: `Order Event`, `Pay Success Event`, and `Deliver Event`. Let's not go to infrastructure detail, let say I store it somewhere and apply state changes by subscribing to the events accordingly.
 
 Here's the state I'll store for customer to see their current order status.
-<figure class="third">
+<figure class="third center">
   <img src="/assets/images/20190714_ordertable.png">
   <figcaption>Order Table</figcaption>
 </figure>
@@ -52,16 +52,11 @@ Let say, the definition of sales is when the payment is succeed. Then, the sales
 3. Identify dimension: Book category, date
 4. Identify facts and measures: Book quantity
 
-See simplified dimensional design below:
-* Fact Sales
-  * order_id
-  * sales_date
-  * customer_id
-  * book_id --> foreign key to book dimension that contains book category
-  * quantity
-* Dim Book (assume using SCD type 1, overwrite only latest state)
-  * book_id
-  * book_category
+See simplified dimensional design below (assume dim book is using SCD type 1, overwrite only latest state):
+<figure class="half">
+  <img src="/assets/images/20190714_factdim.png">
+  <figcaption>Fact and Dimension</figcaption>
+</figure>
 
 The query to answer business question above will be:
 ```sql
