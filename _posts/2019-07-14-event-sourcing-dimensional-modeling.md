@@ -12,7 +12,7 @@ Working on both event sourcing and dimensional modeling, looking at the concept 
 
 Let's start the thought process with a simple case: an online book store. The online book store allows you to order a book, proceed to checkout, fill payment details, and then the book will be delivered to you. To simplify the case, I won't use cart concept, only one book per order. Let say I have a service to handle the states of the book order, starting from 1) ordered, 2) paid, and 3) delivered.
 
-## Event Sourcing Design of the Online Book Store
+### Event Sourcing Design of the Online Book Store
 It would be overkill to design event sourcing for this case of course, but let say we design the events, how the design will look like? Quoting Martin Fowler, Event Sourcing [1]:
 > ensures that all changes to application state are stored as a sequence of events
 
@@ -48,7 +48,7 @@ And here's the events I will store in order to be able to replay the state, if I
   * order_id
   * courier
 
-## Dimensional Model Design of the Online Book Store
+### Dimensional Model Design of the Online Book Store
 Now, what about dimensional model of the use case? Before we go into the design, here are dimensional modeling steps suggested by Kimball [2]:
 1. Select business process
 2. Decide granularity
@@ -88,13 +88,14 @@ WHERE
   sales_date > DATE_SUB(CURRENT_DATE(), INTERVAL 3 MONTH)
 ```
 
-## So... How close?
+### So... How close?
 Assuming I'm building a dimensional model data from event sourcing data, from the example above, there are several things that I can conclude:
-* They are both care about events, hence storing all events will make dimensional modeling a lot easier, as opposed to using change data capture or guessing state changes from the latest state.
+* They both care about events, hence storing all events will make dimensional modeling a lot easier, as opposed to using change data capture or guessing state changes from the latest state in database.
 * I might need to join data from several events in order to get dimensional model I want. In the example above, Pay Success Event is the definiton of sales, but it does not care about book detail. So I have to join Pay Success Event and Order Event in order to get Fact Sales table
+* Not covered in the example above, but building a dimension table will need some events as well, such as Add Book Inventory Event.
 
 Yet, this is hypothetical case only, the devils are in the details. Let me know if you see the conclusion otherwise, or you see my understanding of the concept is not accurate.
 
-## References
-[1] https://martinfowler.com/eaaDev/EventSourcing.html
-[2] https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/four-4-step-design-process/
+### References
+* [1] https://martinfowler.com/eaaDev/EventSourcing.html
+* [2] https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/four-4-step-design-process/
