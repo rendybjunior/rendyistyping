@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: Rendy B. Junior
+title: About
 ---
 ## Data Tech Enthusiast
 Interested in solving business use cases using data technology. Enjoy designing and developing scalable data systems.
@@ -13,7 +13,7 @@ Interested in solving business use cases using data technology. Enjoy designing 
 * [LinkedIn](https://www.linkedin.com/in/rendy-bambang-junior-b1749140/) Rendy B. Junior
 
 ### Latest Articles
-* [2019][Thought on Two Concepts: Event Sourcing and Dimensional Modeling](https://rendyistyping.com/data-engineering/event-sourcing-dimensional-modeling/)
+* [2019] [Thought on Two Concepts: Event Sourcing and Dimensional Modeling](https://rendyistyping.com/data-engineering/event-sourcing-dimensional-modeling/)
 
 ### Certifications
 * [2017] [Deep Learning Foundation Nanodegree, Udacity](https://confirm.udacity.com/D9LERNT7)
@@ -22,7 +22,7 @@ Interested in solving business use cases using data technology. Enjoy designing 
 
 ### Talks
 * [2018] [Data Provisioning API with BigQuery - Google Cloud Summit ’18 Jakarta](https://www.slideshare.net/imrenagi/data-provision-api-with-bigquery-google-cloud-summit-jakarta-18)
-* [2018] [Scalable Data Systems](https://www.slideshare.net/rendybjunior/scalable-data-systems-at-traveloka)
+* [2018] [Scalable Data Systems - RuangGuru Engineering Scalability Talk](https://www.slideshare.net/rendybjunior/scalable-data-systems-at-traveloka)
 * [2017] [Traveloka’s journey to stream analytics on GCP - Google Cloud Summit ‘17 Singapore](https://www.slideshare.net/rendybjunior/travelokas-journey-to-no-ops-streaming-analytics)
 * [2017] [Choosing the Right Database - Facebook DevC Malang](https://www.slideshare.net/rendybjunior/choosing-the-right-database-facebook-devc-malang-hackdays-2017)
 * [2017] [Traveloka Data Meetup #2 - Traveloka’s Data Journey](https://www.slideshare.net/Traveloka/travelokas-data-journey-traveloka-data-meetup-2)
@@ -32,12 +32,15 @@ Interested in solving business use cases using data technology. Enjoy designing 
 
 ### Articles
 #### English
+* [2019] [Thought on Two Concepts: Event Sourcing and Dimensional Modeling](https://rendyistyping.com/data-engineering/event-sourcing-dimensional-modeling/)
+* [2019] [How I Ended up Dumbing Down my Smartphone](https://medium.com/@rendybjunior/how-i-ended-up-dumb-down-my-smartphone-cf83149c2658)
 * [2018] [Data Lake API on Microservice Architecture using BigQuery](https://medium.com/traveloka-engineering/data-lake-api-on-microservice-architecture-using-bigquery-10d6e9c5ca8f), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-traveloka-built-a-data-provisioning-api-on-a-bigquery-based-microservice-architecture)
 * [2018] [Traveloka’s journey to stream analytics on Google Cloud Platform](https://medium.com/traveloka-engineering/travelokas-journey-to-stream-analytics-on-google-cloud-platform-3d013d6bf7c9), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/gcp/travelokas-journey-to-stream-analytics-on-google-cloud-platform)
 * [2018] [Getting Data to Data Lake from Microservices — Part 2: The Logs or Clickstream](https://itnext.io/getting-data-to-data-lake-from-microservices-part-2-the-logs-or-clickstream-e91fa7461867)
-* [2018] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829 )
+* [2018] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829)
 
-#### Indonesia
+#### Indonesian
+* [2019] []
 
 ### Projects
 
