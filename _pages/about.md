@@ -3,11 +3,15 @@ layout: single
 permalink: /about/
 title: Rendy B. Junior
 ---
+
 Crazy dad. Data tech enthusiast. Interested in solving business use cases using data technology. Enjoy designing and developing scalable data systems.
 
 ### Connect
 * [Latest Resume (July 2019)](https://github.com/rendybjunior/rendyistyping/raw/gh-pages/assets/files/Resume.pdf)
+* [Email](mailto:hi@rendybjunior.io) hi@rendybjunior.io
 * [Github](https://github.com/rendybjunior) rendybjunior
+* [Blog](http://rendyistyping.com) rendyistyping.com
+* [Medium](https://medium.com/@rendybjunior) @rendybjunior
 * [Twitter](https://twitter.com/rendybjunior) @rendybjunior
 * [LinkedIn](https://www.linkedin.com/in/rendy-bambang-junior-b1749140/) Rendy B. Junior
 
