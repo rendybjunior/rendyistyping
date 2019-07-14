@@ -36,13 +36,22 @@ Interested in solving business use cases using data technology. Enjoy designing 
 * [2019] [How I Ended up Dumbing Down my Smartphone](https://medium.com/@rendybjunior/how-i-ended-up-dumb-down-my-smartphone-cf83149c2658)
 * [2018] [Data Lake API on Microservice Architecture using BigQuery](https://medium.com/traveloka-engineering/data-lake-api-on-microservice-architecture-using-bigquery-10d6e9c5ca8f), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-traveloka-built-a-data-provisioning-api-on-a-bigquery-based-microservice-architecture)
 * [2018] [Traveloka’s journey to stream analytics on Google Cloud Platform](https://medium.com/traveloka-engineering/travelokas-journey-to-stream-analytics-on-google-cloud-platform-3d013d6bf7c9), republished at [Google Cloud Blog](https://cloud.google.com/blog/products/gcp/travelokas-journey-to-stream-analytics-on-google-cloud-platform)
+* [2018] [Data Story — How to Get Detailed Data Requirement Right](https://medium.com/@rendybjunior/data-story-how-to-get-detailed-data-requirement-right-16ce44490bd7)
 * [2018] [Getting Data to Data Lake from Microservices — Part 2: The Logs or Clickstream](https://itnext.io/getting-data-to-data-lake-from-microservices-part-2-the-logs-or-clickstream-e91fa7461867)
 * [2018] [Getting Data to Data Lake from Microservices — Part 1: From Databases](https://itnext.io/getting-data-to-data-lake-from-microservices-part-1-from-databases-d5e55c4a0829)
+* [2018] [Trying Out AWS Fargate for Daily Job on Docker](https://medium.com/@rendybjunior/trying-out-aws-fargate-for-daily-job-on-docker-b662ff9f73c8)
 
 #### Indonesian
-* [2019] []
+* [2019] [Sulitnya Mencari Informasi Caleg di Pemilu 2019](https://medium.com/@rendybjunior/sulitnya-mencari-informasi-caleag-di-pemilu-2019-ba6f723ef579)
+* [2019] [Enam Bulan Mencoba Adopsi Architecture Decision Record](https://medium.com/@rendybjunior/enam-bulan-mencoba-adopsi-architecture-decision-record-3761e2e32829)
+* [2018] [Penjadwalan Dinamis dengan AWS Lambda dan CloudWatch Rule dalam Bahasa Go](https://medium.com/@rendybjunior/penjadwalan-dinamis-dengan-aws-lambda-dan-cloudwatch-rule-dalam-bahasa-go-a47084b7f17b)
 
-### Projects
+### Playground
+* [2019] [Freddie Mercury - Simple BigQuery Scheduler with Airflow as Engine](https://github.com/rendybjunior/freddie-mercury)
+* [2019] [GCP Cloud Composer examples, managed-service version of Apache Airflow](https://github.com/rendybjunior/cloud-composer-examples)
+* [2019] [PyToefl - Simulate toefl independent speaking test on python script](https://github.com/rendybjunior/pytoefl)
+* [2019] [KPUrawler - Election Commission Crawler](https://github.com/rendybjunior/kpurawler)
+* [2018] [AWS Lambda Salat Reminder](https://github.com/rendybjunior/gosalat)
 
 ## A Crazy Dad
 Enjoy playing with kids and play fool! A devoted dad to a cute daughter. Aspiring to contribute to environmental informatics, making the world a better place for the next generations.
