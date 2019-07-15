@@ -24,7 +24,7 @@ Crazy dad. Data tech enthusiast. Interested in solving business use cases using 
 * [2016] AWS Certified SysOps Administrator Associate
 
 ### Talks
-* [2019] [Data Modeling and Processing for a Travel Super App - Data Council '18 Singapore](https://www.datacouncil.ai/talks/data-modeling-and-processing-for-a-travel-super-app?hsLang=en)
+* [2019] [Data Modeling and Processing for a Travel Super App - Data Council '19 Singapore](https://www.datacouncil.ai/talks/data-modeling-and-processing-for-a-travel-super-app?hsLang=en)
 * [2018] [Data Provisioning API with BigQuery - Google Cloud Summit ’18 Jakarta](https://www.slideshare.net/imrenagi/data-provision-api-with-bigquery-google-cloud-summit-jakarta-18)
 * [2018] [Scalable Data Systems - RuangGuru Engineering Scalability Talk](https://www.slideshare.net/rendybjunior/scalable-data-systems-at-traveloka)
 * [2017] [Traveloka’s journey to stream analytics on GCP - Google Cloud Summit ‘17 Singapore](https://www.slideshare.net/rendybjunior/travelokas-journey-to-no-ops-streaming-analytics)
