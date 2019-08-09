@@ -1,8 +1,8 @@
 ---
 title: "Lampung Road Trip: Perjalanan dari Jakarta ke Bandar Lampung naik Ferry Merak - Bakauheni"
 header:
-  teaser: /assets/images/naik_ferry.png
-  og_image: /assets/images/naik_ferry.png
+  teaser: /assets/images/naik_ferry.jpeg
+  og_image: /assets/images/naik_ferry.jpeg
 date: 2019-08-08
 category: trip
 tags: [trip, lampung, ferry, bakauheni, merak]
@@ -21,7 +21,7 @@ Terlepas dari masalah top-up e-money, menurut saya naik ferry jauh lebih sederha
 Pertama kali menaikkan mobil ke ferry merupakan pengalaman mendebarkan bagi saya. Naiknya cukup terjal dan belokannya cukup tajam. Penyambung antara dermaga dan kapal bergeser-geser seiring dengan bergoyangnya kapal. Namun geserannya kecil sekali sehingga tidak membahayakan.
 
 <figure class="half">
-  <img src="/assets/images/naik_ferry.png">
+  <img src="/assets/images/naik_ferry.jpeg">
   <figcaption>Ilustrasi. Foto kami naik ferry di Bakauheni saat kembali</figcaption>
 </figure>
 
