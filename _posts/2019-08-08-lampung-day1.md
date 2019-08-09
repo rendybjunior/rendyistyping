@@ -22,7 +22,7 @@ Pertama kali menaikkan mobil ke ferry merupakan pengalaman mendebarkan bagi saya
 
 <figure class="half">
   <img src="/assets/images/naik_ferry.png">
-  <figcaption>Events</figcaption>
+  <figcaption>Ilustrasi. Foto kami naik ferry di Bakauheni saat kembali</figcaption>
 </figure>
 
 Kapal ferry kami, kalau tidak salah namanya KMP Port Link, berangkat jam 8 lebih sedikit. Kesan mula saya tentang kapal ferry berubah total saat naik ke lantai penumpang. Tempatnya nyaman dan luas sekali, bahkan ada tempat bermain anak. Goyangan yang saya khawatirkan hampir tidak terasa, mungkin karena kapalnya cukup besar. Kesannya mirip naik kereta, bahkan lebih baik karena luas sehingga anak-anak bebas berlarian kesana kemari.
