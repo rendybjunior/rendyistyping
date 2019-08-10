@@ -5,7 +5,7 @@ category: journal
 tags: [journal, success, finance]
 ---
 
-Successfool. Istilah yang pertama kali saya baca dari situs theminimalists.com. Istilah ini merepresentasikan kesuksesan fana, di mana sukses adalah mewujudkan impian kebanyakan orang, mencapai situasi yang didambakan banyak orang, mencapai status sosial tertentu.
+Successfool. Istilah yang pertama kali saya baca dari [situs theminimalists.com](https://www.theminimalists.com/successfool/). Istilah ini merepresentasikan kesuksesan fana, di mana sukses adalah mewujudkan impian kebanyakan orang, mencapai situasi yang didambakan banyak orang, mencapai status sosial tertentu.
 
 Sejak kecil, yang saya tahu sukses adalah kepemilikan material yang mewah; punya rumah besar, mobil mewah, tanah luas, perhiasan banyak, dan lain-lain. Sukses adalah bergaji besar, punya jabatan bergengsi, dan punya gelar setinggi-tingginya. Sukses adalah sudah menikah, punya anak minimal dua, harus ada laki-laki dan perempuan. Sukses adalah liburan ke berbagai tempat eksotis. Setidaknya itu tekanan sosial yang saya pribadi rasakan dari keluarga, orangtua, dan sanak saudara. Topik pertanyaan saat silaturahmi tahunan di hari yang fitri tidak jauh dari pertanyaan-pertanyaan tersebut.
 
