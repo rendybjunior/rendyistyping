@@ -25,9 +25,9 @@ Dengan menjadikan materi sebagai definisi utama kesuksesan, kita membangun masya
 
 Dulu, saya kira dengan mendapatkan materi saya akan bahagia. Namun ternyata saya salah. Setelah mendapatkan apa yang saya inginkan, saya sering merasa kosong. Kok, perasaan yang bahagia yang saya cari, tidak kunjung saya dapatkan. Malah seringkali apa yang saya beli malah membuat saya tidak bahagia. Kadang saya merasa membuat-buat hidup saya untuk terlihat lebih sukses dari yang sebenarnya, sampai-sampai saya benci dengan diri saya sendiri. Tidak ada salahnya punya barang-barang yang memberikan nilai ke dalam hidup kita. Yang kurang tepat adalah menjadikan barang-barang tersebut sebagai pusat dari kehidupan kita. Membeli yang kita inginkan, lebih dari apa yang kita butuhkan. Sejauh yang saya alami, kebahagiaan hakiki datang bukan dari materi, tapi dari rasa syukur, dari orang-orang di sekitar kita.
 
-<figure class="third">
+<figure class="half">
   <img src="/assets/images/small_family.jpg">
-  <figcaption>Ilustrasi. Foto kami naik ferry di Bakauheni saat kembali</figcaption>
+  <figcaption>Kebahagiaan hqq.</figcaption>
 </figure>
 
 Saya mencoba berpikir, dari mana sebenarnya tekanan sosial ini datang. Apakah karena kita terus diserang gambaran kesuksesan yang ditampilkan oleh acara di televisi melalui sinetron dan kehidupan sehari-hari artis, atau di jaman sekarang diwakili oleh publikasi akun selebriti di media sosial seperti selebgram, yang menampilkan kehidupannya yang serba indah. Entahlah, sampai sekarang saya belum punya jawabannya. Mungkin keinginan punya materi yang lebih merupakan intuisi kita untuk bertahan hidup, yang sayangnya teramplifikasi oleh ekspektasi sosial yang berlebihan melalui tekanan sosial dalam berbagai media seperti media sosial.
