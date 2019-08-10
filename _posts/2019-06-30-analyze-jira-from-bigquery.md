@@ -1,8 +1,8 @@
 ---
 title: "Analyze Jira Issues using BigQuery and Data Studio"
-# header:
-#   teaser: /assets/images/dag_tree_view.png
-#   og_image: /assets/images/s3_to_bq_dag.png
+header:
+  teaser: /assets/images/jira_bigqueryui.png
+  og_image: /assets/images/jira_bigqueryui.png
 date: 2019-06-30
 category: data-engineering
 tags: [jira, airflow, composer, gcp, bigquery, gcs]
