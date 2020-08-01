@@ -8,7 +8,7 @@ Crazy dad. Data tech enthusiast. Interested in solving business use cases using 
 
 ### Connect
 * [Latest Resume (July 2019)](https://github.com/rendybjunior/rendyistyping/raw/gh-pages/assets/files/Resume.pdf)
-* [Email](mailto:hi@rendybjunior.io) hi@rendybjunior.io
+* [Email](mailto:hi@rendyistyping.com) hi@rendyistyping.com
 * [Github](https://github.com/rendybjunior) rendybjunior
 * [Blog](http://rendyistyping.com) rendyistyping.com
 * [Medium](https://medium.com/@rendybjunior) @rendybjunior

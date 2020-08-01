@@ -1,8 +1,8 @@
 ---
 title: "Kuliah S2 Computer Science Online di Georgia Institute of Technology"
 header:
-  teaser: /assets/images/random1.jpg
-  og_image: /assets/images/random1.jpg
+  teaser: /assets/images/20200801_gatech.png
+  og_image: /assets/images/20200801_gatech.png
 date: 2020-08-01
 category: kuliah
 tags: [kuliah, computer science, gatech]
@@ -72,6 +72,10 @@ Saya lupa-lupa ingat apa saja yang saya siapkan, yang paling ribet (sehingga say
 - Surat referensi dari tiga orang, bisa dari dosen atau atasan di tempat kerja. Saya pilih tiga-tiganya atasan di tempat kerja karena dosen saya berhalangan.
 - Surat yang isinya motivasi kita kuliah dan kenapa kita pantas diterima (namanya apa ya, motivation letter?).
 - Administration stuff, seperti ijazah dan transkrip yang dilegalisir.
+
+## Bagaimana Membagi Waktu
+
+Untuk membagi waktu antara kerja, keluarga, dan kuliah, saya coba konsisten setiap subuh mengerjakan tugas. Jika tidak cukup, maka dikerjakan di akhir minggu. Setiap mata kuliah beda bebannya per minggu. [Website review mata kuliah di OMSCS](https://omscentral.com/) beserta estimasi workload mingguan memberikan gambaran sehingga saya bisa memilih mata kuliah apa yang akan saya ambil semester ini berdasarkan banyaknya pekerjaan dan rencana keluarga. Sejauh ini kurang lebih saya menghabiskan waktu 15 jam per minggu.
 
 ## Penutup
 
