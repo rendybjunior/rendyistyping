@@ -46,7 +46,7 @@ Total semuanya sekitar 6 juta rupiah. Tentu, TOEFL-nya tetap berguna untuk dafta
 
 Les TOEFL saya ambil karena _speaking_ saya suram. Saya ambil kelas TOEFL _online_ di [sini](https://onlinetoeflcourse.com/) untuk dua bulan (masing-masing $45). Teknologi situsnya sangat outdated, gurunya juga sangat oldschool. Namun gurunya memberi banyak sekali slot untuk berlatih speaking dan dinilai langsung oleh beliau. Komennya pun tajam-tajam dan sangat membangun. Saya rekam jawaban dari pertanyaan TOEFL speaking lalu saya kirim lewat email, beliau balas dalam 1x24 jam dengan nilai estimasi skor beserta feedback apa yang harus diperbaiki.
 
-## Biaya Semester
+### Biaya Semester
 
 Biaya semester saya sama untuk tiga semester terakhir, yaitu Spring 2020, Summer 2020, dan Fall 2020. Di setiap semester, saya membayar tiga komponen di bawah dengan total $841 atau sekitar 12,6 juta rupiah.
 
@@ -56,7 +56,7 @@ Biaya semester saya sama untuk tiga semester terakhir, yaitu Spring 2020, Summer
 
 Jika mengambil lebih dari satu mata kuliah, tebakan saya yang naik hanya Tuition Fee saja, dikali dengan jumlah mata kuliah yang diambil. Untuk sampai lulus, kita perlu menyelesaikan 10 mata kuliah. Kalau ambil satu mata kuliah per semester seperti saya, total sampai lulus perkiraannya sekitar 126 juta rupiah (dengan asumsi nilai tukar stabil).
 
-## Apakah Mahal
+### Apakah Mahal
 
 Mahal itu relatif. Sebagai ilustrasi, program studi S2 Ilmu Komputer di UI biayanya 14 sampai 16 juta per semester, dengan uang pangkal 17 juta ([sumber di sini](https://www.ui.ac.id/pengantar-pendaftaran/biaya-pendidikan.html)). Kalau dibandingkan tentu OMSCS lebih murah. Namun, _worth it_ atau tidaknya bergantung pada pendapat masing-masing orang, serta preferensinya. Saya sarankan Anda untuk mempertimbangkan dengan tujuan belajar, apa yang ingin dicapai, serta perbedaan dari alternatif yang mungkin anda ambil (kuliah di berbagai tempat, ambil beasiswa, atau tidak kuliah sama sekali). Oh ya, beasiswa ada juga namun saya belum mencari tahu lebih dalam terkait persyaratan dan yang lainnya.
 
@@ -73,13 +73,15 @@ Saya lupa-lupa ingat apa saja yang saya siapkan, yang paling ribet (sehingga say
 - Surat yang isinya motivasi kita kuliah dan kenapa kita pantas diterima (namanya apa ya, motivation letter?).
 - Administration stuff, seperti ijazah dan transkrip yang dilegalisir.
 
+Tidak ada persyaratan ujian GRE seperti program studi CS di US pada umumnya.
+
 ## Bagaimana Membagi Waktu
 
 Untuk membagi waktu antara kerja, keluarga, dan kuliah, saya coba konsisten setiap subuh mengerjakan tugas. Jika tidak cukup, maka dikerjakan di akhir minggu. Setiap mata kuliah beda bebannya per minggu. [Website review mata kuliah di OMSCS](https://omscentral.com/) beserta estimasi workload mingguan memberikan gambaran sehingga saya bisa memilih mata kuliah apa yang akan saya ambil semester ini berdasarkan banyaknya pekerjaan dan rencana keluarga. Sejauh ini kurang lebih saya menghabiskan waktu 15 jam per minggu.
 
 ## Penutup
 
-Bagi saya, kesempatan untuk belajar di program studi top, dari domisili tinggal, dengan harga yang relatif sama dengan program studi dalam negeri, ditambah fleksibilitas waktu, adalah alasan utama saya ingin menulis ini. Menurut saya ini sangat layak untuk dipertimbangkan bagi teman-teman dari Indonesia (sejauh ini orang Indonesia yang saya tahu jadi mahasiswa di sini baru saya dan kolega kerja saya itu). Semoga tulisan ini memberika sedikit gambaran dan bisa menambah alternatif bila teman-teman pembaca hendak memutuskan melanjutkan sekolah ke jenjang S2. 
+Bagi saya, kesempatan untuk belajar di program studi top, dari domisili tinggal, dengan harga yang relatif sama dengan program studi dalam negeri, ditambah fleksibilitas waktu, adalah alasan utama saya ingin menulis ini. Menurut saya ini sangat layak untuk dipertimbangkan bagi teman-teman dari Indonesia (sejauh ini orang Indonesia yang saya tahu jadi mahasiswa di sini baru saya dan kolega kerja saya itu). Semoga tulisan ini memberikan sedikit gambaran dan bisa menambah alternatif bila teman-teman pembaca hendak memutuskan melanjutkan sekolah ke jenjang S2.
 
 ## Pranala OMSCS
 
